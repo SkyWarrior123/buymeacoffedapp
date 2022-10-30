@@ -1,13 +1,27 @@
-# Sample Hardhat Project
+BuyMeCoffee ☕️
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This Dapp allows family, friends, fans to tip their fav person/creator in cryptos.
 
-Try running some of the following tasks:
+This Decentralized Application is deployed to Goerli Testnet.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+To get Goerli faucet
+
 ```
+www.goerlifaucet.com
+```
+
+To use the dapp on your local machine Follow these steps
+Copy and paste this command in your terminal
+
+```
+git clone ""
+```
+then cd into this directory:
+```
+cd buymeacoffee
+```
+then run the following command
+```
+npm run dev
+```
+
