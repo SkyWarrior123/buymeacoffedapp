@@ -14,7 +14,7 @@ To use the dapp on your local machine Follow these steps
 Copy and paste this command in your terminal
 
 ```
-git clone ""
+git clone "https://github.com/SkyWarrior123/buymeacoffedapp.git"
 ```
 then cd into this directory:
 ```
